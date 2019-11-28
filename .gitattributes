@@ -1,0 +1,6 @@
+Content/PumpingStation/** filter=lfs diff=lfs merge=lfs -text
+Content/ContainerCrates_SciFi/** filter=lfs diff=lfs merge=lfs -text
+Content/IndustryPropPack6/** filter=lfs diff=lfs merge=lfs -text
+Content/_WR1/Blueprints/Environment/** filter=lfs diff=lfs merge=lfs -text
+Import/** filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
